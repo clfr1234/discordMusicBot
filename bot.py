@@ -98,4 +98,4 @@ async def stop(ctx):
     else:
         await ctx.send("지금은 노래가 재생되지 않네요")
 
-bot.run('MTExMzA5MDQ5NTYyNzkyMzUzNw.GhRXVK.0H0lZXVhGepeSfxa5pazhLOEVzRYnC20VvwfGM')
+bot.run('bot tkn')
